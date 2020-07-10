@@ -178,92 +178,80 @@
             "id": 1,
             "img": "/mobile.svg",
             "tittle": "Mobile & Web",
-            "link": [
-                "shopify",
-                "wordpress",
-                "javascript",
-                "html",
-                "css",
-                "website design",
-                "squarespace",
-                "mobile app development"
-            ]
+            "link1": "shopify",
+            "link2": "wordpress",
+            "link3": "javascript",
+            "link4": "html",
+            "link5": "css",
+            "link6": "website design",
+            "link7": "squarespace",
+            "link8": "mobile app development"
             
         },
         {
             "id": 2,
             "img": "/development.svg",
             "tittle": "Mobile & Web",
-            "link": [
-                "roblox",
-                "cms",
-                "java",
-                "python",
-                "architecture",
-                "php",
-                "myaql",
-                ".net"
-            ]
+            "link1": "roblox",                     
+            "link2": "cms",
+            "link3": "java",
+            "link4": "python",
+            "link5": "architecture",
+            "link6": "php",
+            "link7": "myaql",
+            "link8": ".net"
         },
         {
             "id": 3,
             "img": "/internet.svg",
             "tittle": "Internet",
-            "link": [
-                "aws",
-                "seo",
-                "linux",
-                "social media",
-                "analytics",
-                "api",
-                "googale tag management",
-                "youtube"
-            ]
+            "link1": "aws",
+            "link2": "seo",
+            "link3": "linux",
+            "link4": "social media",
+            "link5": "analytics",
+            "link6": "api",
+            "link7": "googale tag management",
+            "link8": "youtube"
         },
         {
             "id": 4,
             "img": "/design.svg",
             "tittle": "Motion & Design",
-            "link": [
-                "photoshop",
-                "graphic design",
-                "illustration",
-                "logo design",
-                "3d modelling",
-                "ux/ui design",
-                "animation",
-                "cgi"
-            ]
+            "link1": "photoshop",
+            "link2": "graphic design",
+            "link3": "illustration",
+            "link4": "logo design",
+            "link5": "3d modelling",
+            "link6": "ux/ui design",
+            "link7": "animation",
+            "link8": "cgi"
         },
         {
             "id": 5,
             "img": "/backoffice.svg",
             "tittle": "Backoffice",
-            "link": [
-                "finance",
-                "excel",
-                "accounting",
-                "logistics",
-                "manufacturing",
-                "research",
-                "legal",
-                "data entry"
-            ]
+            "link1": "finance",
+            "link2": "excel",
+            "link3": "accounting",
+            "link4": "accounting",
+            "link5": "manufacturing",
+            "link6": "research",
+            "link7": "legal",
+            "link8": "data entry"
         },
         {
             "id": 6,
             "img": "/content.svg",
             "tittle": "Content",
-            "link": [
-                "translation",
-                "marketing",
-                "blog",
-                "copywriting",
-                "proofreading",
-                "technical writing",
-                "communication",
-                "creative writing"
-            ]
+            "link1": "translation",
+            "link2": "marketing",
+            "link3": "blog",
+            "link4": "copywriting",
+            "link5": "proofreading",
+            "link6": "technical writing",
+            "link7": "communication",
+            "link8": "creative writing"
         },
         {
             "id": 7,
@@ -276,52 +264,44 @@
         {
             "id": 1,
             "tittle": "Freelancer",
-            "link": [
-                "us (international) / english",
-                "help & support"
-            ]
+            "link1": "us (international) / english",
+            "link2": "help & support"
         },
         {
             "id": 2,
             "tittle": "Freelancer",
-            "link": [
-                "categories",
-                "projects",
-                "contests",
-                "freelancers",
-                "enterprise",
-                "Preferred Freelancer Program",
-                "Project Management",
-                "Local Job",
-                "Showcase",
-                "Api For Devlopers",
-                "Get Verified"
-            ]
+            "link1": "categories",
+            "link2": "projects",
+            "link3": "contests",
+            "link4": "freelancers",
+            "link5":  "enterprise",
+            "link6": "Preferred Freelancer Program",
+            "link" : "Project Management",
+            "link8": "Local Job",
+            "link9":  "Showcase",
+            "link10": "Api For Devlopers",
+            "link11": "Get Verified"
         },
         {
             "id": 3,
             "tittle": "about",
-            "link": [
-                "Aboutus",
-                "How it Works",
-                "Security",
-                "freelancers",
-                "Investor",
-                "Sitemap",
-                "Quotes",
-                "News"
-            ]
+            "link1": "Aboutus",
+            "link2": "How it Works",
+            "link3": "Security",
+            "link4": "freelancers",
+            "link5":  "Investor",
+            "link6": "Sitemap",
+            "link" : "Quotes",
+            "link8": "News"
         },
         {
             "id": 4,
             "tittle": "teams",
-            "link": [
-                "Privacy Policy",
-                "Terms and Conditions",
-                "Copyright Policy",
-                "Code of Conduct",
-                "Fess and Charges"
-            ]
+            "link1": "Privacy Policy",
+            "link2": "Terms and Conditions",
+            "link3": "Copyright Policy",
+            "link4": "Code of Conduct",
+            "link5":  "Fess and Charges"
         },
         {
             "id": 5,

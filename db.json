@@ -1,0 +1,335 @@
+{
+    "carousel": 
+    [
+        {
+            "id": 1,
+            "img": "/bg2.jpg",
+            "details": "This mobile app design cost $1500 USD"
+        },
+        {
+            "id": 2,
+            "img": "/bg1.jpg",
+            "details": "This illustration cost $100 USD and took 5 days"
+        },
+        {
+            "id": 3,
+            "img": "/bg2.jpg",
+            "details": "This radiation shiled design for NASA cost $500 USD and took 15days"
+        },
+        {
+            "captionTitle": "Hire expert freelancers for any job, online",
+            "captionDescription": "Millions of small businesses use Freelancer to turn their ideas into reality.",
+            "hierBtn": "Hier a Freelancer",
+            "earnBtn": "Earn a Freelancer"
+        }
+    ],
+
+    "asUsedBy": 
+    [
+        {
+            "id": 1,
+            "imge": "/amazon.svg"
+        },
+        {
+            "id": 2,
+            "img": "/facebook.svg"
+        },
+        {
+            "id": 3,
+            "img": "deloitte.svg"
+        },
+        {
+            "id": 4,
+            "img": "novo.svg"
+        },
+        {
+            "id": 5,
+            "img": "nasa.svg"
+        },
+        {
+            "id": 6,
+            "img": "ibm.svg"
+        },
+        {
+            "id": 7,
+            "img": "airbus.svg"
+        }
+    ],
+
+    "work":
+    [
+        {
+            "id": 1,
+            "img": "/post.svg",
+            "tittle": "Post a job",
+            "details": "It's easy. Simply post a job you need completed and receive competitive bids from freelancers within minutes."
+        },
+        {
+            "id": 2,
+            "img": "/choose.svg",
+            "tittle": "Choose freelancers",
+            "details": "Whatever your needs, there will be a freelancer to get it done: from web design, mobile app development, virtual assistants, product manufacturing, and graphic design (and a whole lot more)."
+        },
+        {
+            "id": 3,
+            "img": "/pay.svg",
+            "tittle": "Pay safely",
+            "details": "With secure payments and thousands of reviewed professionals to choose from, Freelancer. com is the simplest and safest way to get work done online."
+        }
+    ],
+
+    "favorites":
+    [
+        {
+            "id": 1,
+            "img": "/writting.jpg",
+            "tittle": "Website Development"
+        },
+        {
+            "id": 2,
+            "img": "/writting.jpg",
+            "tittle": "Packaging Design"
+        },
+        {
+            "id": 3,
+            "img": "/writting.jpg",
+            "tittle": "Logo Design"
+        },
+        {
+            "id": 4,
+            "img": "/writting.jpg",
+            "tittle": "Graphic Design"
+        },
+        {
+            "id": 5,
+            "img": "/writting.jpg",
+            "tittle": "Mobile App"
+        },
+        {
+            "id": 6,
+            "img": "/writting.jpg",
+            "tittle": "Writing"
+        }
+    ],
+
+    "about":
+    [
+        {
+            "id": 1,
+            "img": "/browse.svg",
+            "tittle": "Browse portfolios",
+            "details": "Find professionals you can trust by browsing their samples of previous work and reading their profile reviews."
+        },
+        {
+            "id": 2,
+            "img": "/view.svg",
+            "tittle": "View bids",
+            "details": "Receive free bids from our talented freelancers within seconds."
+        },
+        {
+            "id": 3,
+            "img": "/live-chat.svg",
+            "tittle": "Live chat",
+            "details": "You can live chat with your freelancers to get constant updates on the progress of your work."
+        },
+        {
+            "id": 4,
+            "img": "/pay (1).svg",
+            "tittle": "Pay for quality",
+            "details": "Pay for work when it has been completed and you're 100% satisfied."
+        },
+        {
+            "id": 5,
+            "img": "/track.svg",
+            "tittle": "Track progress",
+            "details": "Keep up-to-date and on-the-go with our time tracker, and mobile app."
+        },
+        {
+            "id": 6,
+            "img": "/support.svg",
+            "tittle": "24/7 support",
+            "details": "We're always here to help. Our support consists of real people who are available 24/7."
+        }
+    ],
+
+    "cover":
+    [
+        {
+            "id": 1,
+            "img": "/cover_letters.jpg",
+            "tittle": "Freelancer Enterprise",
+            "tittleDescription": "Take strategic advantage in your industry.",
+            "details": "Tap into over 45 million skilled professionals in over 1600 skills sets in 247 countries, regions and territories.",
+            "learnBtn": "Learn More"
+        },
+        {
+            "id": 2,
+            "img": "/api.jpg",
+            "tittle": "Freelancer API",
+            "tittleDescription": "Task talent from software.",
+            "details": "Why set up costly infrastructure when you can make an API call to the cloud?",
+            "viewBtn": "View Documentation"
+        }
+    ],
+
+    "skills":
+    [
+        {
+            "id": 1,
+            "img": "/mobile.svg",
+            "tittle": "Mobile & Web",
+            "link": [
+                "shopify",
+                "wordpress",
+                "javascript",
+                "html",
+                "css",
+                "website design",
+                "squarespace",
+                "mobile app development"
+            ]
+            
+        },
+        {
+            "id": 2,
+            "img": "/development.svg",
+            "tittle": "Mobile & Web",
+            "link": [
+                "roblox",
+                "cms",
+                "java",
+                "python",
+                "architecture",
+                "php",
+                "myaql",
+                ".net"
+            ]
+        },
+        {
+            "id": 3,
+            "img": "/internet.svg",
+            "tittle": "Internet",
+            "link": [
+                "aws",
+                "seo",
+                "linux",
+                "social media",
+                "analytics",
+                "api",
+                "googale tag management",
+                "youtube"
+            ]
+        },
+        {
+            "id": 4,
+            "img": "/design.svg",
+            "tittle": "Motion & Design",
+            "link": [
+                "photoshop",
+                "graphic design",
+                "illustration",
+                "logo design",
+                "3d modelling",
+                "ux/ui design",
+                "animation",
+                "cgi"
+            ]
+        },
+        {
+            "id": 5,
+            "img": "/backoffice.svg",
+            "tittle": "Backoffice",
+            "link": [
+                "finance",
+                "excel",
+                "accounting",
+                "logistics",
+                "manufacturing",
+                "research",
+                "legal",
+                "data entry"
+            ]
+        },
+        {
+            "id": 6,
+            "img": "/content.svg",
+            "tittle": "Content",
+            "link": [
+                "translation",
+                "marketing",
+                "blog",
+                "copywriting",
+                "proofreading",
+                "technical writing",
+                "communication",
+                "creative writing"
+            ]
+        },
+        {
+            "id": 7,
+            "viewBtn": "View all"
+        }
+    ],
+
+    "footer":
+    [
+        {
+            "id": 1,
+            "tittle": "Freelancer",
+            "link": [
+                "us (international) / english",
+                "help & support"
+            ]
+        },
+        {
+            "id": 2,
+            "tittle": "Freelancer",
+            "link": [
+                "categories",
+                "projects",
+                "contests",
+                "freelancers",
+                "enterprise",
+                "Preferred Freelancer Program",
+                "Project Management",
+                "Local Job",
+                "Showcase",
+                "Api For Devlopers",
+                "Get Verified"
+            ]
+        },
+        {
+            "id": 3,
+            "tittle": "about",
+            "link": [
+                "Aboutus",
+                "How it Works",
+                "Security",
+                "freelancers",
+                "Investor",
+                "Sitemap",
+                "Quotes",
+                "News"
+            ]
+        },
+        {
+            "id": 4,
+            "tittle": "teams",
+            "link": [
+                "Privacy Policy",
+                "Terms and Conditions",
+                "Copyright Policy",
+                "Code of Conduct",
+                "Fess and Charges"
+            ]
+        },
+        {
+            "id": 5,
+            "tittle": "apps",
+            "img": [
+                "/app.jpd",
+                "/play.jpg"
+            ]
+        }        
+    ]
+}

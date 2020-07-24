@@ -4,23 +4,20 @@
         {
             "id": 1,
             "img": "/bg2.jpg",
-            "details": "This mobile app design cost $1500 USD"
+            "captionTitle": "Hire expert freelancers for any job, online",
+            "captionDescription": "Millions of small businesses use Freelancer to turn their ideas into reality.",
+            "btnText": [
+                {"id": 1, "btnName": "I want Hire"},
+                {"id": 2, "btnName": "I want Hire"}
+            ]
         },
         {
             "id": 2,
-            "img": "/bg1.jpg",
-            "details": "This illustration cost $100 USD and took 5 days"
+            "img": "/bg1.jpg"
         },
         {
             "id": 3,
-            "img": "/bg2.jpg",
-            "details": "This radiation shiled design for NASA cost $500 USD and took 15days"
-        },
-        {
-            "captionTitle": "Hire expert freelancers for any job, online",
-            "captionDescription": "Millions of small businesses use Freelancer to turn their ideas into reality.",
-            "hierBtn": "Hier a Freelancer",
-            "earnBtn": "Earn a Freelancer"
+            "img": "/bg2.jpg"
         }
     ],
 
@@ -28,7 +25,7 @@
     [
         {
             "id": 1,
-            "imge": "/amazon.svg"
+            "img": "/amazon.svg"
         },
         {
             "id": 2,
@@ -61,19 +58,19 @@
         {
             "id": 1,
             "img": "/post.svg",
-            "tittle": "Post a job",
+            "title": "Post a job",
             "details": "It's easy. Simply post a job you need completed and receive competitive bids from freelancers within minutes."
         },
         {
             "id": 2,
             "img": "/choose.svg",
-            "tittle": "Choose freelancers",
+            "title": "Choose freelancers",
             "details": "Whatever your needs, there will be a freelancer to get it done: from web design, mobile app development, virtual assistants, product manufacturing, and graphic design (and a whole lot more)."
         },
         {
             "id": 3,
             "img": "/pay.svg",
-            "tittle": "Pay safely",
+            "title": "Pay safely",
             "details": "With secure payments and thousands of reviewed professionals to choose from, Freelancer. com is the simplest and safest way to get work done online."
         }
     ],
@@ -83,32 +80,38 @@
         {
             "id": 1,
             "img": "/writting.jpg",
-            "tittle": "Website Development"
+            "title": "Website Development",
+            "details": "From $300 USD"       
         },
         {
             "id": 2,
             "img": "/writting.jpg",
-            "tittle": "Packaging Design"
+            "title": "Packaging Design",
+            "details": "From $300 USD"
         },
         {
             "id": 3,
             "img": "/writting.jpg",
-            "tittle": "Logo Design"
+            "title": "Logo Design",
+            "details": "From $300 USD"
         },
         {
             "id": 4,
             "img": "/writting.jpg",
-            "tittle": "Graphic Design"
+            "title": "Graphic Design",
+            "details": "From $300 USD"
         },
         {
             "id": 5,
             "img": "/writting.jpg",
-            "tittle": "Mobile App"
+            "title": "Mobile App",
+            "details": "From $300 USD"
         },
         {
             "id": 6,
             "img": "/writting.jpg",
-            "tittle": "Writing"
+            "title": "Writing",
+            "details": "From $300 USD"
         }
     ],
 
@@ -117,58 +120,38 @@
         {
             "id": 1,
             "img": "/browse.svg",
-            "tittle": "Browse portfolios",
+            "title": "Browse portfolios",
             "details": "Find professionals you can trust by browsing their samples of previous work and reading their profile reviews."
         },
         {
             "id": 2,
             "img": "/view.svg",
-            "tittle": "View bids",
+            "title": "View bids",
             "details": "Receive free bids from our talented freelancers within seconds."
         },
         {
             "id": 3,
             "img": "/live-chat.svg",
-            "tittle": "Live chat",
+            "title": "Live chat",
             "details": "You can live chat with your freelancers to get constant updates on the progress of your work."
         },
         {
             "id": 4,
             "img": "/pay (1).svg",
-            "tittle": "Pay for quality",
+            "title": "Pay for quality",
             "details": "Pay for work when it has been completed and you're 100% satisfied."
         },
         {
             "id": 5,
             "img": "/track.svg",
-            "tittle": "Track progress",
+            "title": "Track progress",
             "details": "Keep up-to-date and on-the-go with our time tracker, and mobile app."
         },
         {
             "id": 6,
             "img": "/support.svg",
-            "tittle": "24/7 support",
+            "title": "24/7 support",
             "details": "We're always here to help. Our support consists of real people who are available 24/7."
-        }
-    ],
-
-    "cover":
-    [
-        {
-            "id": 1,
-            "img": "/cover_letters.jpg",
-            "tittle": "Freelancer Enterprise",
-            "tittleDescription": "Take strategic advantage in your industry.",
-            "details": "Tap into over 45 million skilled professionals in over 1600 skills sets in 247 countries, regions and territories.",
-            "learnBtn": "Learn More"
-        },
-        {
-            "id": 2,
-            "img": "/api.jpg",
-            "tittle": "Freelancer API",
-            "tittleDescription": "Task talent from software.",
-            "details": "Why set up costly infrastructure when you can make an API call to the cloud?",
-            "viewBtn": "View Documentation"
         }
     ],
 
@@ -177,85 +160,92 @@
         {
             "id": 1,
             "img": "/mobile.svg",
-            "tittle": "Mobile & Web",
-            "link1": "shopify",
-            "link2": "wordpress",
-            "link3": "javascript",
-            "link4": "html",
-            "link5": "css",
-            "link6": "website design",
-            "link7": "squarespace",
-            "link8": "mobile app development"
-            
+            "title": "Mobile & Web",
+            "linkTitle": [
+                {"id": 1, "linkName": "Shopify"},
+                {"id": 2, "linkName": "Wordpress"},
+                {"id": 3, "linkName": "Javascript"},
+                {"id": 4, "linkName": "HTML"},
+                {"id": 5, "linkName": "CSS"},
+                {"id": 6, "linkName": "Website Design"},
+                {"id": 7, "linkName": "Squarespace"},
+                {"id": 8, "linkName": "Mobile App Development"}
+            ]          
         },
         {
             "id": 2,
             "img": "/development.svg",
-            "tittle": "Mobile & Web",
-            "link1": "roblox",                     
-            "link2": "cms",
-            "link3": "java",
-            "link4": "python",
-            "link5": "architecture",
-            "link6": "php",
-            "link7": "myaql",
-            "link8": ".net"
+            "title": "Mobile & Web",
+            "linkTitle": [
+                {"id": 1, "linkName": "Roblox"},
+                {"id": 2, "linkName": "VMS"},
+                {"id": 3, "linkName": "JAVA"},
+                {"id": 4, "linkName": "Python"},
+                {"id": 5, "linkName": "Architecture"},
+                {"id": 6, "linkName": "PHP"},
+                {"id": 7, "linkName": "MYSQL"},
+                {"id": 8, "linkName": ".Net"}
+            ]     
         },
         {
             "id": 3,
             "img": "/internet.svg",
-            "tittle": "Internet",
-            "link1": "aws",
-            "link2": "seo",
-            "link3": "linux",
-            "link4": "social media",
-            "link5": "analytics",
-            "link6": "api",
-            "link7": "googale tag management",
-            "link8": "youtube"
+            "title": "Internet",
+            "linkTitle": [
+                {"id": 1, "linkName": "AWS"},
+                {"id": 2, "linkName": "SEO"},
+                {"id": 3, "linkName": "Linux"},
+                {"id": 4, "linkName": "Social media"},
+                {"id": 5, "linkName": "Analytics"},
+                {"id": 6, "linkName": "API"},
+                {"id": 7, "linkName": "Googale tag management"},
+                {"id": 8, "linkName": "Youtube"}
+            ]
         },
         {
             "id": 4,
             "img": "/design.svg",
-            "tittle": "Motion & Design",
-            "link1": "photoshop",
-            "link2": "graphic design",
-            "link3": "illustration",
-            "link4": "logo design",
-            "link5": "3d modelling",
-            "link6": "ux/ui design",
-            "link7": "animation",
-            "link8": "cgi"
+            "title": "Motion & Design",
+            "linkTitle": [
+                {"id": 1, "linkName": "Photoshop"},
+                {"id": 2, "linkName": "Graphic design"},
+                {"id": 3, "linkName": "Illustration"},
+                {"id": 4, "linkName": "Logo design"},
+                {"id": 5, "linkName": "3D Modelling"},
+                {"id": 6, "linkName": "Ux/UI Design"},
+                {"id": 7, "linkName": "Animation"},
+                {"id": 8, "linkName": "Cgi"}
+            ]
         },
         {
             "id": 5,
             "img": "/backoffice.svg",
-            "tittle": "Backoffice",
-            "link1": "finance",
-            "link2": "excel",
-            "link3": "accounting",
-            "link4": "accounting",
-            "link5": "manufacturing",
-            "link6": "research",
-            "link7": "legal",
-            "link8": "data entry"
+            "title": "Backoffice",
+            "linkTitle": [
+                {"id": 1, "linkName": "Finance"},
+                {"id": 2, "linkName": "Excel"},
+                {"id": 3, "linkName": "Accounting"},
+                {"id": 4, "linkName": "Accounting"},
+                {"id": 5, "linkName": "Manufacturing"},
+                {"id": 6, "linkName": "Research"},
+                {"id": 7, "linkName": "Legal"},
+                {"id": 8, "linkName": "Data entry"}
+            ]
         },
         {
             "id": 6,
             "img": "/content.svg",
-            "tittle": "Content",
-            "link1": "translation",
-            "link2": "marketing",
-            "link3": "blog",
-            "link4": "copywriting",
-            "link5": "proofreading",
-            "link6": "technical writing",
-            "link7": "communication",
-            "link8": "creative writing"
-        },
-        {
-            "id": 7,
-            "viewBtn": "View all"
+            "title": "Content",
+            "linkTitle": [
+                {"id": 1, "linkName": "Translation"},
+                {"id": 2, "linkName": "Marketing"},
+                {"id": 3, "linkName": "Blog"},
+                {"id": 4, "linkName": "Copywriting"},
+                {"id": 5, "linkName": "Proofreading"},
+                {"id": 6, "linkName": "Technical writing"},
+                {"id": 7, "linkName": "Communication"},
+                {"id": 8, "linkName": "Creative writing"}
+            ]
         }
     ],
 
@@ -263,53 +253,72 @@
     [
         {
             "id": 1,
-            "tittle": "Freelancer",
-            "link1": "us (international) / english",
-            "link2": "help & support"
+            "class": "col-md-4 col-12",
+            "titleImage": "/freelancer-logo.svg",
+            "linkTitle": [
+                {"id": 1, "linkName": "Us (International) / English"},
+                {"id": 2, "linkName": "Help & Support"}
+            ]
         },
         {
             "id": 2,
-            "tittle": "Freelancer",
-            "link1": "categories",
-            "link2": "projects",
-            "link3": "contests",
-            "link4": "freelancers",
-            "link5":  "enterprise",
-            "link6": "Preferred Freelancer Program",
-            "link" : "Project Management",
-            "link8": "Local Job",
-            "link9":  "Showcase",
-            "link10": "Api For Devlopers",
-            "link11": "Get Verified"
+            "class": "col-md-2 col-12 main-footer",
+            "titleName": "Freelancer",
+            "linkTitle": [
+                {"id": 1, "linkName": "categories"},
+                {"id": 2, "linkName": "projects"},
+                {"id": 3, "linkName": "contests"},
+                {"id": 4, "linkName": "freelancers"},
+                {"id": 5, "linkName":  "enterprise"},
+                {"id": 6, "linkName": "Preferred Freelancer Program"},
+                {"id": 7, "linkName" : "Project Management"},
+                {"id": 8, "linkName": "Local Job"},
+                {"id": 9, "linkName":  "Showcase"},
+                {"id": 10, "linkName": "Api For Devlopers"},
+                {"id": 11, "linkName": "Get Verified"}
+            ]
         },
         {
             "id": 3,
-            "tittle": "about",
-            "link1": "Aboutus",
-            "link2": "How it Works",
-            "link3": "Security",
-            "link4": "freelancers",
-            "link5":  "Investor",
-            "link6": "Sitemap",
-            "link" : "Quotes",
-            "link8": "News"
+            "class": "col-md-2 col-12 main-footer",
+            "titleName": "about",
+            "linkTitle": [
+                {"id": 1, "linkName": "Aboutus"},
+                {"id": 2, "linkName": "How it Works"},
+                {"id": 3, "linkName": "Security"},
+                {"id": 4, "linkName": "freelancers"},
+                {"id": 5, "linkName": "Investor"},
+                {"id": 6, "linkName": "Sitemap"},
+                {"id": 7, "linkName": "Quotes"},
+                {"id": 8, "linkName": "News"}
+            ]
         },
         {
             "id": 4,
-            "tittle": "teams",
-            "link1": "Privacy Policy",
-            "link2": "Terms and Conditions",
-            "link3": "Copyright Policy",
-            "link4": "Code of Conduct",
-            "link5":  "Fess and Charges"
+            "class": "col-md-2 col-12 main-footer",
+            "titleName": "teams",
+            "linkTitle": [
+                {"id": 1, "linkName":"Privacy Policy"},
+                {"id": 2, "linkName":"Terms and Conditions"},
+                {"id": 3, "linkName":"Copyright Policy"},
+                {"id": 4, "linkName":"Code of Conduct"},
+                {"id": 5, "linkName":"Fess and Charges"}
+            ]
         },
         {
             "id": 5,
-            "tittle": "apps",
-            "img": [
-                "/app.jpd",
-                "/play.jpg"
+            "class": "col-md-2 col-12 main-footer",
+            "titleName": "apps",
+            "linkTitle": [
+                {"id": 1, "imgPath": "/app.jpg"},
+                {"id": 2, "imgPath": "/play.jpg"}
+            ],
+            "social": [
+                {"id": 1, "icon": "fab fa-facebook", "class": "facebook"},
+                {"id": 1, "icon": "fab fa-twitter", "class": "twitter"},
+                {"id": 1, "icon": "fab fa-youtube", "class": "youtube"},
+                {"id": 1, "icon": "fab fa-instagram", "class": "instagram"}
             ]
-        }        
+        }
     ]
 }
